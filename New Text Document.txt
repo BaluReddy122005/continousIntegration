@@ -1,0 +1,5 @@
+git hub ki pampiyali a code 
+tharuvatha next
+Jenkins to new item select free style project -> source code management -> git url -> Add build step->execute windows batch command ->   javac simple(fn).java 
+                           java simple.java 
+->save -> build now  
